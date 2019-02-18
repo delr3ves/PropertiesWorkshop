@@ -20,36 +20,32 @@ A continuación os dejo una lista con las implementaciones que he podido ir haci
 ## Ejercicios
 
 ### 1. Familiarizarnos con las librerías
+
 En esta parte del taller pretendemos familiarizarnos con las librerías, la idea es conocer sus conceptos principales y llevarlos a la práctica
 
-#### Propiedades de la suma:
+#### Propiedades de la suma (15'):
+
 * Escribir nuestro primer test con las propiedades de la suma.
 * ¿Qué pasa si cambiamos la implementación de la suma por la de la implementación?
 
-#### Jugando con la librería:
+#### Jugando con la librería (20'):
+
 * Poner trazas de log para ver cómo ejecuta nuestro test.
 * Configurar el número de veces que queremos ejecutar un test.
 * Ver cómo funciona el shrink haciendo fallar un test y mirando trazas.
 * Hacer generadores custom y comprobar como hacer por filtrado y por modificación
 
-#### Propiedades de algunas funciones/series matemáticas conocidas:
+#### Propiedades de algunas funciones/series matemáticas conocidas (5'):
 
 * Cual es la propiedad fundamental de la serie de fibonacci?
 * Con dicha propiedad tenemos la certeza de que la serie está bien?
 
-#### Determinar las propiedades de las distintas operaciones de una lista:
+#### Determinar las propiedades de las distintas operaciones de una lista (20'):
 
 * Añadir un elemento a una lista
 * Eliminar elementos de una lista
 * Concatenar listas
 * Eliminar duplicados
-
-
-#### Algunas otras propiedades típicas uqe podemos encontrar en nuestro sitema:
-
-* Probar algún ejercicio con cadenas (¿todo mayúsculas y todo minúsuculas?)
-* Probar mapeo bidireccional
-
 
 
 ### 2. Resolver un problema "real"
