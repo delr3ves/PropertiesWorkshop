@@ -6,7 +6,7 @@
 Tiene dos peculiaridades fundamentales:
 
 1. No tenemos control absoluto de los datos con los que ejercitamos el sistema.
-2. No nos fijamos tanto en el estado de nuestra aplicación como en las propiedades que debe cumplir el mismo.
+2. No nos fijamos tanto en el estado de nuestro sistema como en las propiedades que debe cumplir el mismo.
 
 ## ¿Qué necesito para acudir al taller?
 Lo primero de todo es que tengas ganas de aprender y ayudar a tus compis. Tened en cuenta que podemos llegar a ser un grupo numeroso y eso puede dificultar el desarrollo normal de una kata.
@@ -50,6 +50,6 @@ En esta parte del taller pretendemos familiarizarnos con las librerías, la idea
 
 ### 2. Resolver un problema "real"
 
-Gracias a nuestros amigos de [Karumi](https://www.karumi.com/) por prestarnos su archiconocida kata de los Maxibon. Sois un amor, muchísimas gracias por vuestro curro y vuestro aporte a que el mundillo del desarrollo software sea un lugar un poquito mejor :kissing_heart:
+Gracias a nuestros amigos de [Karumi](https://www.karumi.com/) por prestarnos su archiconocida kata de los Maxibon. Sois un amor, muchísimas gracias por vuestro curro y vuestro aporte a que el mundo del desarrollo software sea un lugar un poquito mejor :kissing_heart:
 
-En esta segunda parte del training nos dedicaremos a probar las propiedades de un software ya construido aunuqe con posibles fallos de implemnetación. De esta forma veremos si los test de propiedades nos ayudarían a encontrar algún error no encontrado con otras técnicas de testing más tradicionales
+En esta segunda parte del training nos dedicaremos a probar las propiedades de un software ya construido aunque con posibles fallos de implemnetación. De esta forma veremos si los test de propiedades nos ayudarían a encontrar algún error no encontrado con otras técnicas de testing más tradicionales
