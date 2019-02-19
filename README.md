@@ -50,6 +50,6 @@ En esta parte del taller pretendemos familiarizarnos con las librerías, la idea
 
 ### 2. Resolver un problema "real"
 
-Gracias a nuestros amigos de [Karumi](https://www.karumi.com/) por prestarnos su archiconocida kata de los Maxibon. Sois un amor, muchísimas gracias por vuestro curro y vuestro aporte a que el mundillo del desarrollo software sea un lugar un poquito mejor :*
+Gracias a nuestros amigos de [Karumi](https://www.karumi.com/) por prestarnos su archiconocida kata de los Maxibon. Sois un amor, muchísimas gracias por vuestro curro y vuestro aporte a que el mundillo del desarrollo software sea un lugar un poquito mejor :kissing_heart:
 
 En esta segunda parte del training nos dedicaremos a probar las propiedades de un software ya construido aunuqe con posibles fallos de implemnetación. De esta forma veremos si los test de propiedades nos ayudarían a encontrar algún error no encontrado con otras técnicas de testing más tradicionales
