@@ -15,7 +15,7 @@ A continuación os dejo una lista con las implementaciones que he podido ir haci
 
 * Scala: [https://github.com/delr3ves/WeCodePropertiesScala](https://github.com/delr3ves/WeCodePropertiesScala)
 * Kotlin: [https://github.com/delr3ves/WeCodePropertiesKotlin](https://github.com/delr3ves/WeCodePropertiesKotlin)
-* JavaScript: [https://github.com/delr3ves/WeCodePropertiesJs](https://github.com/delr3ves/WeCodePropertiesJs) (en progreso)
+* JavaScript: [https://github.com/delr3ves/WeCodePropertiesJs](https://github.com/delr3ves/WeCodePropertiesJs)
 
 
 ## Ejercicios
