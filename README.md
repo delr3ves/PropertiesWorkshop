@@ -14,7 +14,8 @@ Además pensad en el impacto de la red si todos decidimos descargar todas las li
 A continuación os dejo una lista con las implementaciones que he podido ir haciendo. Si os apetece ampliar la lista con algún otro lenguaje sería taaaan feliz :)
 
 * Scala: [https://github.com/delr3ves/WeCodePropertiesScala](https://github.com/delr3ves/WeCodePropertiesScala)
-* Kotlin [https://github.com/delr3ves/WeCodePropertiesKotlin](https://github.com/delr3ves/WeCodePropertiesKotlin)
+* Kotlin: [https://github.com/delr3ves/WeCodePropertiesKotlin](https://github.com/delr3ves/WeCodePropertiesKotlin)
+* JavaScript: [https://github.com/delr3ves/WeCodePropertiesJs](https://github.com/delr3ves/WeCodePropertiesJs) (en progreso)
 
 
 ## Ejercicios
