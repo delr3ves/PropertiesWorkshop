@@ -16,7 +16,7 @@ A continuación os dejo una lista con las implementaciones que he podido ir haci
 * Scala: [https://github.com/delr3ves/WeCodePropertiesScala](https://github.com/delr3ves/WeCodePropertiesScala)
 * Kotlin: [https://github.com/delr3ves/WeCodePropertiesKotlin](https://github.com/delr3ves/WeCodePropertiesKotlin)
 * JavaScript: [https://github.com/delr3ves/WeCodePropertiesJs](https://github.com/delr3ves/WeCodePropertiesJs)
-* Python: [https://github.com/rachelcarmena/Python-PropertyBasedTesting-Examples](https://github.com/rachelcarmena/Python-PropertyBasedTesting-Examples). Muchísmas gracias a @rachelcarmena](https://github.com/rachelcarmena) por animarse a enviar la implementación :ocean::ocean::clap::clap:
+* Python: [https://github.com/rachelcarmena/Python-PropertyBasedTesting-Examples](https://github.com/rachelcarmena/Python-PropertyBasedTesting-Examples). *Muchísmas gracias a @rachelcarmena](https://github.com/rachelcarmena) por animarse a enviar la implementación* :ocean::ocean::clap::clap:
 
 
 ## Ejercicios
