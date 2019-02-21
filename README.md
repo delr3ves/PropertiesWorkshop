@@ -13,10 +13,11 @@ Lo primero de todo es que tengas ganas de aprender y ayudar a tus compis. Tened 
 Además pensad en el impacto de la red si todos decidimos descargar todas las librerías y dependencias a la vez. Con la intención de agilizar lo máximo posible y de aprovechar el tiempo he creado proyectos en varios lenguajes para que os sirvan de punto de partida. De este modo no dedicaremos demasiado tiempo a montar un proyecto de cero. Por favor, antes de venir al taller, intentad descargaros el repositorio del lenguaje con el que os sintáis más cómodos y aseguraros de que podéis ejecutar los tests. En el repo de cada proyecto hay información específica.
 A continuación os dejo una lista con las implementaciones que he podido ir haciendo. Si os apetece ampliar la lista con algún otro lenguaje sería taaaan feliz :)
 
-* Scala: [https://github.com/delr3ves/WeCodePropertiesScala](https://github.com/delr3ves/WeCodePropertiesScala)
-* Kotlin: [https://github.com/delr3ves/WeCodePropertiesKotlin](https://github.com/delr3ves/WeCodePropertiesKotlin)
 * JavaScript: [https://github.com/delr3ves/WeCodePropertiesJs](https://github.com/delr3ves/WeCodePropertiesJs)
+* Kotlin: [https://github.com/delr3ves/WeCodePropertiesKotlin](https://github.com/delr3ves/WeCodePropertiesKotlin)
 * Python: [https://github.com/rachelcarmena/Python-PropertyBasedTesting-Examples](https://github.com/rachelcarmena/Python-PropertyBasedTesting-Examples). *Muchísmas gracias a @rachelcarmena](https://github.com/rachelcarmena) por animarse a enviar la implementación* :ocean::ocean::clap::clap:
+* Scala: [https://github.com/delr3ves/WeCodePropertiesScala](https://github.com/delr3ves/WeCodePropertiesScala)
+* Swift: [https://github.com/delr3ves/WeCodePropertiesSwift](https://github.com/delr3ves/WeCodePropertiesSwift)
 
 
 ## Ejercicios
