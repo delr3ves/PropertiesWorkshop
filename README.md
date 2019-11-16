@@ -1,4 +1,4 @@
-# WeCodeProperties
+# Properties Workshop
 
 ## Bienvenidos al  taller de Property Based Testing
 
@@ -15,7 +15,7 @@ A continuación os dejo una lista con las implementaciones que he podido ir haci
 
 * JavaScript: [https://github.com/delr3ves/WeCodePropertiesJs](https://github.com/delr3ves/WeCodePropertiesJs)
 * Kotlin: [https://github.com/delr3ves/WeCodePropertiesKotlin](https://github.com/delr3ves/WeCodePropertiesKotlin)
-* Python: [https://github.com/rachelcarmena/Python-PropertyBasedTesting-Examples](https://github.com/rachelcarmena/Python-PropertyBasedTesting-Examples). *Muchísmas gracias a @rachelcarmena](https://github.com/rachelcarmena) por animarse a enviar la implementación* :ocean::ocean::clap::clap:
+* Python: [https://github.com/rachelcarmena/Python-PropertyBasedTesting-Examples](https://github.com/rachelcarmena/Python-PropertyBasedTesting-Examples). *Muchísmas gracias a [@rachelcarmena](https://github.com/rachelcarmena) por animarse a enviar la implementación* :ocean::ocean::clap::clap:
 * Scala: [https://github.com/delr3ves/WeCodePropertiesScala](https://github.com/delr3ves/WeCodePropertiesScala)
 * Swift: [https://github.com/delr3ves/WeCodePropertiesSwift](https://github.com/delr3ves/WeCodePropertiesSwift)
 
